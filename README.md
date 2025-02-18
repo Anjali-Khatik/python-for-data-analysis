@@ -1,7 +1,5 @@
 This repository covers:
 
-✔️ Python basics for data analysis
-
 ✔️ Working with NumPy and Pandas
 
 ✔️ Data visualization using Matplotlib
